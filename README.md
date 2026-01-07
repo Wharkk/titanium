@@ -60,6 +60,7 @@ Studio plugin auto-generates ServerTypes for full intellisense across your entir
 ### Option 1: GitHub Download (Recommended)
 
 Get the latest version here: [Titanium_Framework.rbxl](./Titanium_Framework.rbxl)
+
 Download the plugin from the Roblox Creator Store (IMPORTANT!): [Titanium Studio](https://create.roblox.com/store/asset/129879750902925/Titanium-Studio)
 
 ### Option 2: Roblox Creator Store Download
