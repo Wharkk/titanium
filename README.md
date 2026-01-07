@@ -357,14 +357,13 @@ Run tests easily just by creating new modules with the naming convention "[Servi
 For detailed documentation, examples, and best practices, see:
 - [Full Documentation](docs/README.md) *(coming soon)*
 - [API Reference](docs/API.md) *(coming soon)*
-- [Examples](examples/) - Practical examples and patterns
 
 ---
 
 ## Contributing
 
 Contributions are welcome! Feel free to:
-- Report bugs via [Issues](https://github.com/Wharkk/TitaniumFramework/issues)
+- Report bugs via [Issues](https://github.com/Wharkk/titanium/issues)
 - Submit pull requests
 - Suggest features or improvements
 
