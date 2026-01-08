@@ -65,7 +65,7 @@ Download the plugin from the Roblox Creator Store (IMPORTANT!): [Titanium Studio
 
 ### Option 2: Roblox Creator Store Download
 
-1. Download the framework from the [Roblox Creator Store](YOUR_CREATOR_LINK_HERE)
+1. Download the framework from the [Roblox Creator Store](https://create.roblox.com/store/asset/137854707445779/Titanium-Framework)
 2. Download the plugin (IMPORTANT!): [Titanium Studio](https://create.roblox.com/store/asset/129879750902925/Titanium-Studio)
 3. Import into Roblox Studio
 4. Read the README ModuleScript
