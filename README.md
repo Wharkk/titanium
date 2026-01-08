@@ -16,7 +16,7 @@ Titanium is a batteries-included production framework that handles data persiste
 
 ### Zero Boilerplate
 
-Define your DataTemplate once and Titanium auto-generates type-safe getters, setters, and client replication. No more manually configuring ProfileStore sessions. No more creating RemoteEvents for every data change. Titanium handles the infrastructure—you build features, not plumbing.
+Define your DataTemplate once and Titanium auto-generates type-safe getters, setters, and client replication. No more manually configuring ProfileStore sessions. No more creating RemoteEvents for every data change. Titanium handles the infrastructure. You build features, not plumbing.
 ```lua
 -- Define your data structure once
 local DataTemplate = {
