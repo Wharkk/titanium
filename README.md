@@ -377,13 +377,7 @@ MIT License - See [LICENSE](LICENSE) for details
 
 ## Credits
 
-Built by **wharkk** ([@wharkk_](https://x.com/wharkk_))
-
-**Portfolio**: [wharkk-developer.framer.website](https://wharkk-developer.framer.website)
-
-**Powered by:**
-- [ProfileStore](https://devforum.roblox.com/t/profilestore-save-your-player-data-easy-datastore-module/) by [@loleris](https://github.com/LM-loleris)
-- [Replica](https://devforum.roblox.com/t/replica-server-to-client-state-replication-module/) by [@loleris](https://github.com/LM-loleris)
-- [Crusherfire's Module Loader](https://www.youtube.com/watch?v=dJjZ7ml9bSo) by [@crusherfiredev](https://www.youtube.com/@crusherfiredev)
-- [Cursherfire's collection of utilities](https://www.youtube.com/watch?v=CSEYwWlEvkc) by [@crusherfiredev](https://www.youtube.com/@crusherfiredev)
-- [Pest for Luau](https://github.com/Wharkk/pest-luau) - Port of PestPHP by [@nunomaduro](https://github.com/nunomaduro)
+**Huge thanks to these people for their useful ressources:**
+- [@loleris](https://github.com/LM-loleris) for [ProfileStore](https://devforum.roblox.com/t/profilestore-save-your-player-data-easy-datastore-module/) and [Replica](https://devforum.roblox.com/t/replica-server-to-client-state-replication-module/)
+- [@crusherfiredev](https://www.youtube.com/@crusherfiredev) for his [Module Loader](https://www.youtube.com/watch?v=dJjZ7ml9bSo) and his [collection of utilities](https://www.youtube.com/watch?v=CSEYwWlEvkc)
+- [@nunomaduro](https://github.com/nunomaduro) for [PestPHP](https://pestphp.com/)
